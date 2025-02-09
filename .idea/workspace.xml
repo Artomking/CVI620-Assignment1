@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36211622-2dfa-4548-9068-ed9007e9a42f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment 1 VISION.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing Application/rectangular_draw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing Application/rhino.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Arithmetic/arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Arithmetic/beaver.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Arithmetic/rat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photobooth/Photobooth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photobooth/photos/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photobooth/photos/photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photobooth/photos/photo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photobooth/photos/photo4.png" afterDir="false" />
+    <list default="true" id="36211622-2dfa-4548-9068-ed9007e9a42f" name="Changes" comment="Everything">
+      <change afterPath="$PROJECT_DIR$/Assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing Application/rectangular_draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drawing Application/rectangular_draw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Arithmetic/arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Arithmetic/arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photobooth/Photobooth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Photobooth/Photobooth.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +37,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Assignment1.executor": "Run",
     "Python.Photobooth.executor": "Run",
     "Python.arithmetic.executor": "Run",
     "Python.rectangular_draw.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -80,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1739071799131</updated>
     </task>
+    <task id="LOCAL-00001" summary="Everything">
+      <option name="closed" value="true" />
+      <created>1739094550435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739094550435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="Everything" />
   </component>
 </project>
