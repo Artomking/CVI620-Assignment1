@@ -44,12 +44,12 @@ while True:
     # Take a picture of key pressed is spacebar
     # Save to photos folder
     elif key == 32:
-        photoNumber = photo_number("photos")
+        photoNumber = photo_number("Photobooth/photos")
         photoName = os.path.join("photos", f"photo{photoNumber}.png")
         cv2.imwrite(photoName, frame)
         print(f"Photo taken: {photoName}")
 
-# Image Arithmetic
+# Image Arithmetic (must press escape to access)
 img_path_rat = "Image Arithmetic/rat.jpg"
 img_path_beaver = "Image Arithmetic/beaver.jpg"
 
@@ -73,6 +73,7 @@ cv2.imshow("Contrast Rat", contrastImage)
 image2 = cv2.imread(img_path_beaver)
 image2 = cv2.resize(image2, (1200, 600))
 cv2.imshow("Beaver", image2)
+
 
 # Create function for blending images through trackbar alpha value
 def update(val):

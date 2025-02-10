@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36211622-2dfa-4548-9068-ed9007e9a42f" name="Changes" comment="Everything">
-      <change afterPath="$PROJECT_DIR$/Assignment1.py" afterDir="false" />
+    <list default="true" id="36211622-2dfa-4548-9068-ed9007e9a42f" name="Changes" comment="Reformatted, added main Assignment1.py file, added trackbar for alpha">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drawing Application/rectangular_draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drawing Application/rectangular_draw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image Arithmetic/arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Arithmetic/arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photobooth/Photobooth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Photobooth/Photobooth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Assignment1.executor": "Run",
-    "Python.Photobooth.executor": "Run",
-    "Python.arithmetic.executor": "Run",
-    "Python.rectangular_draw.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Photobooth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangular_draw.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\artom\PycharmProjects\Assignment 1 VISION\Drawing Application" />
@@ -78,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739094550435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reformatted, added main Assignment1.py file, added trackbar for alpha">
+      <option name="closed" value="true" />
+      <created>1739096283951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739096283951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="Everything" />
+    <MESSAGE value="Reformatted, added main Assignment1.py file, added trackbar for alpha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatted, added main Assignment1.py file, added trackbar for alpha" />
   </component>
 </project>
